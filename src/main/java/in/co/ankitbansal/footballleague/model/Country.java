@@ -8,5 +8,5 @@ public class Country {
   @JsonProperty("country_id")
   private int id;
   @JsonProperty("country_name")
-  private int name;
+  private String name;
 }
